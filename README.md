@@ -1,4 +1,5 @@
 Africa iOS App
+
 Welcome to the repository for the Animals iOS app! This app is a Swift UI-based project designed to work seamlessly on iPhone, iPad, and Mac. Animals offers users an engaging journey through the animal kingdom, leveraging technologies like JSON data decoding, MapKit with custom annotations, and a sophisticated grid layout.
 
 Features
